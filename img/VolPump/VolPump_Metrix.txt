@@ -1,0 +1,89 @@
+
+Vol_ret =
+
+    0.0787
+
+
+Vol_std =
+
+    0.1725
+
+
+Vol_SR =
+
+    0.4560
+
+
+ans =
+
+    0.3804
+
+
+target_wealth =
+
+   5.0222e+06
+
+
+prob_achieve =
+
+    0.8370
+
+
+prob_achieve_lower =
+
+    0.8510
+
+
+EXPECTED_DELAYED_AGE =
+
+   70.5726
+
+
+MEAN_REACH_TARGET_AGE =
+
+   61.0070
+
+
+PROB_REACH_TARGET_BEFORE_RET =
+
+    0.8760
+
+
+MaxDD =
+
+    0.2506
+
+
+target_wealth =
+
+   5.0222e+06
+
+
+prob_achieve =
+
+    0.8370
+
+
+prob_achieve_lower =
+
+    0.8510
+
+
+EXPECTED_DELAYED_AGE =
+
+   70.7703
+
+
+MEAN_REACH_TARGET_AGE =
+
+   55.5030
+
+
+PROB_REACH_TARGET_BEFORE_RET =
+
+    0.9260
+
+
+PrudentMaxDD =
+
+    0.1554

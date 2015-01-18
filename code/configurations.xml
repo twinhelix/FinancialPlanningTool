@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Persons>
+   <Entry>
+      <Name>Jennifer</Name>
+      <Age>35</Age>
+      <Sex>F</Sex>
+      <Salary>175000</Salary>
+      <SalaryIncr>0.02</SalaryIncr>
+      <MatchingContr>0.04</MatchingContr>
+	  <AdditionContr>0.10</AdditionContr>
+      <MaxSalarySaved>0.20</MaxSalarySaved>
+	  <DCBal>60000</DCBal>
+	  <SavingsBal>60000</SavingsBal>
+   </Entry>
+   <Entry>
+      <Name>Lu</Name>
+      <Age>25</Age>
+      <Sex>M</Sex>
+      <Salary>100000</Salary>
+      <SalaryIncr>0.05</SalaryIncr>
+      <MatchingContr>0.04</MatchingContr>
+	  <AdditionContr>0.06</AdditionContr>
+      <MaxSalarySaved>0.2</MaxSalarySaved>
+	  <DCBal>60000</DCBal>
+	  <SavingsBal>60000</SavingsBal>
+   </Entry>
+   <Entry>
+      <Name>Ed</Name>
+      <Age>23</Age>
+      <Sex>M</Sex>
+      <Salary>100000</Salary>
+      <SalaryIncr>0.05</SalaryIncr>
+      <MatchingContr>0.04</MatchingContr>
+      <AdditionContr>0.08</AdditionContr>
+      <MaxSalarySaved>0.2</MaxSalarySaved>
+      <DCBal>60000</DCBal>
+	  <SavingsBal>60000</SavingsBal>
+    </Entry>
+</Persons>

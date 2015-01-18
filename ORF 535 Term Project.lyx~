@@ -1,0 +1,3411 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage{color}
+\definecolor{hellgelb}{rgb}{1,1,0.90}
+\definecolor{colKeys}{rgb}{0,0,1}
+\definecolor{colIdentifier}{rgb}{0,0,0}
+\definecolor{colComments}{rgb}{0,0.5,0}
+\definecolor{colString}{rgb}{1,0,0}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement H
+\paperfontsize default
+\spacing other 1.5
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.5in
+\rightmargin 0.75in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\listings_params "backgroundcolor={\color{hellgelb}},basicstyle={\footnotesize\ttfamily},breakautoindent=true,breakindent=10pt,breaklines=true,captionpos=t,columns=fixed,commentstyle={\itshape\color{colComments}},extendedchars=true,float=hbp,frame=single,framerule=1pt,identifierstyle={\color{colIdentifier}},keywordstyle={\color{colKeys}},language=Matlab,numbers=left,numbersep=1em,numberstyle={\tiny\ttfamily},showspaces=false,showstringspaces=false,stringstyle={\color{colString}},tabsize=4"
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+ORF 535 Term Project
+\end_layout
+
+\begin_layout Author
+Ed Stivers and Lu Xin
+\end_layout
+
+\begin_layout Section*
+Jennifer Lee Retirement Plan Report
+\end_layout
+
+\begin_layout Standard
+This report highlights the best possible retirement investment plans for
+ Ms.
+ Jennifer Lee.
+ Report created with the following assumptions: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="11" columns="2">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Name
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Jennifer
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Age
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+35
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Sex
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+F
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Salary
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+175,000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Salary Increase
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Employer Matching Contribution
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Max Additional DC Contribution
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Max Total Contribution
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+20%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+DC Plan Balance
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+60,000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Non-Retirement Savings Balance
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+60,000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Minimum Retirement Age
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+68
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Jennifer Lee XML Data
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Objectives
+\end_layout
+
+\begin_layout Standard
+The primary goal is to find the best possible retirement plan to ensure
+ the highest probably of a fully funded retirement, calculated to be $4.91
+ million.
+ The secondary object is to minimise the expected amount of time Jennifer
+ needs to wait for retirement if does not meet her funding target by age
+ 68.
+ Analysis of 1000 possible scenarios was conducted to see the distribution
+ of possible paths.
+\end_layout
+
+\begin_layout Subsection*
+Strategy
+\end_layout
+
+\begin_layout Standard
+Findings from our Financial Planning Tool (FPT) suggests that the best method
+ for Ms.
+ Lee to save and invest is the follow:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Saving strategy:
+\end_layout
+
+\begin_layout Itemize
+Save 14% of annual salary in DC retirement account, earn additional 4% from
+ matched contribution (the retirement account has tax benefits).
+\end_layout
+
+\begin_layout Itemize
+Save 6% of annual salary in taxable savings account (capital gains tax assumed
+ to be constant 10%).
+\end_layout
+
+\begin_layout Itemize
+If a funding ratio of 1.01 is at any time before retirement age, rebalance
+ and immunize entire portfolio with government bonds.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Additional consideration: if the stock markets are hit with big downside
+ shocks on multiple occasions, say the 10% worst case scenarios, we allow
+ Jennifer to lower her retirement spending needs by 15%.
+ 
+\end_layout
+
+\begin_layout Standard
+Investment strategy - Adjustable Risk Allocation Policy:
+\end_layout
+
+\begin_layout Itemize
+Start with the best allocation for a standard fixed mix approach.
+ Roughly: stocks 70%, bonds 30%, FTSE overlay 50%, cash 0%.
+\end_layout
+
+\begin_layout Itemize
+Each year, adjust allocation if there is a big shock in the stock market:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+10% or more downward shock: increase allocation of stocks by 10% of total
+ wealth, decrease bonds by 10% of total wealth
+\end_layout
+
+\begin_layout Itemize
+10% or more upward shock: decrease allocation of stocks by 10% of total
+ wealth, increase bonds by 10% of total wealth
+\end_layout
+
+\begin_layout Itemize
+Minimum allocation to stocks is 40%, maximum 100%.
+ 
+\end_layout
+
+\begin_layout Itemize
+Always keep FTSE overlay and cash fixed.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+The idea of this investment strategy is to take on more risk when the target
+ funding ratio is far away, and reduce risk as we get closer.
+ We mitigate most risk once the the funding ratio is 1.01 or above.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Spending Strategy - upon retirement:
+\end_layout
+
+\begin_layout Itemize
+Jennifer should spend money from her non-retirement savings account before
+ taking from her DC plan account.
+ The tax structure of the two plans makes spending from the non-retirement
+ account beneficial as it minimizes the amount of taxes relative to the
+ gains Jennifer's accounts make during retirement.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Results
+\end_layout
+
+\begin_layout Standard
+The above-mentioned pension investment strategy yields the best probabilities
+ of achieving our goal:
+\end_layout
+
+\begin_layout Itemize
+Probability of achieving goal at or before 68: 
+\series bold
+92.60%
+\end_layout
+
+\begin_layout Itemize
+Expected age if delayed retirement: 
+\series bold
+70.77 years old
+\end_layout
+
+\begin_layout Itemize
+Expected age to reach Funding Ratio = 1.01: 
+\series bold
+55.50 years old
+\end_layout
+
+\begin_layout Itemize
+Pension plan portfolio max drawdown: 15.54%
+\end_layout
+
+\begin_layout Itemize
+Expected bequeathed amount to family: $4.16 million
+\end_layout
+
+\begin_layout Itemize
+Probability of running out of funds during retirement: 1.5%
+\end_layout
+
+\begin_layout Subsection*
+Metrics of Findings
+\end_layout
+
+\begin_layout Subsubsection*
+Distribution of Retirement Portfolio Value:
+\end_layout
+
+\begin_layout Standard
+The distribution of values for 1000 scenarios at age 68, using the immunization
+ tactic, is:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/p3.png
+	lyxscale 60
+	scale 48
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The red line indicates the target level of wealth needed.
+ As we can observe, majority (about 92%) of the distribution of portfolio
+ values are greater than the expected wealth.
+\end_layout
+
+\begin_layout Subsubsection*
+Policy Diamond:
+\end_layout
+
+\begin_layout Standard
+Below we plot some sample paths of the pension portfolio of the scenarios
+ in gray.
+ Blue line indicates the retirement age of 68.
+ Black line indicates the target funding ratio of 1.01 (using a 2.5% per year
+ discounting on retirement liabilities, continuous compounding).
+ Yellow line indicates the funding needed for the 15% reduced spending policy
+ if applied.
+ The red 'Diamond' indicates the 80% confidence interval of age reaching
+ a funding ratio of 1.01 along the x-axis, and the 80% confidence range of
+ possible portfolio values at the retirement age of 68.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/p5.png
+	lyxscale 60
+	scale 56.5
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Wealth paths for all sampled scenarios are visualized below:
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/p6.png
+	lyxscale 60
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The distribution of Jennifer's portfolio value in the DC Pension plan and
+ the Taxable savings account are as follows:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/p1.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DC Wealth Ages 60,65,68,70,75
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:DC-Wealth-Ages"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/p2.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Savings Wealth Ages 60,65,68,70,75
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Savings-Wealth-Ages"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Due to the method in which we allocate our savings, we see the DC pension
+ account is significantly larger than the taxable savings.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The distribution of the age in which Jennifer acquires her funding ratio
+ target of 1.01 is:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/p4.png
+	lyxscale 60
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The red line indicates the minimum retirement age for Jennifer, 68.
+\end_layout
+
+\begin_layout Subsubsection*
+Longevity
+\end_layout
+
+\begin_layout Standard
+During retirement, given Jennifer's projected spending levels, we simulate
+ the spending and longevity to provide possible amount of assets bequeathed
+ to her family:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/terminal_w.png
+	lyxscale 60
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Expected bequeathed amount to family: $4.16 million.
+ Probability of running out of funds during retirement: 1.5%.
+\end_layout
+
+\begin_layout Subsection*
+Possible Improvements
+\end_layout
+
+\begin_layout Standard
+We can improve the 92.60% chance of achieving retirement goal if Jennifer
+ boosts her savings per year to above 20% of her annual salary.
+ For example, some possible considerations are:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Increasing to saving 
+\series bold
+22%
+\series default
+ of annual salary:
+\end_layout
+
+\begin_layout Itemize
+Probability of achieving goal at or before 68: 
+\series bold
+93.60%
+\end_layout
+
+\begin_layout Itemize
+Expected age if delayed retirement: 
+\series bold
+70.65 years old
+\end_layout
+
+\begin_layout Itemize
+Expected age to reach Funding Ratio = 1.01: 
+\series bold
+54.35 years old
+\end_layout
+
+\begin_layout Itemize
+Pension plan portfolio max drawdown: 13.99%
+\end_layout
+
+\begin_layout Itemize
+Expected bequest amount to family: $4.46 million
+\end_layout
+
+\begin_layout Itemize
+Probability of running out of funds during retirement: 1.1%
+\end_layout
+
+\begin_layout Standard
+Increasing to saving 
+\series bold
+24%
+\series default
+ of annual salary:
+\end_layout
+
+\begin_layout Itemize
+Probability of achieving goal at or before 68: 
+\series bold
+96.60%
+\end_layout
+
+\begin_layout Itemize
+Expected age if delayed retirement: 
+\series bold
+70.79 years old
+\end_layout
+
+\begin_layout Itemize
+Expected age to reach Funding Ratio = 1.01: 
+\series bold
+52.56 years old
+\end_layout
+
+\begin_layout Itemize
+Pension plan portfolio max drawdown: 11.97%
+\end_layout
+
+\begin_layout Itemize
+Expected bequest amount to family: $4.94 million
+\end_layout
+
+\begin_layout Itemize
+Probability of running out of funds during retirement: 0.7%
+\end_layout
+
+\begin_layout Standard
+From the above, we observe that increasing savings to 24% each each gives
+ a major boost to the probability of being fully funded by age 68.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Policy Diamond - 24% Adjustable Risk Policy
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump24/p5.png
+	lyxscale 60
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Conclusion
+\end_layout
+
+\begin_layout Standard
+We suggest Jennifer choose to invest 24% of her annual salary into her retiremen
+t plan with the allocation of 14% (+4% matched contribution) in her DC pension
+ plan and 10% in taxable savings account.
+ The investment policy should be to take on more risk and invest more in
+ stocks when her portfolios drifts away from her target funding ratio, and
+ reduce risk by investing more in bonds when she is near her funding ratio.
+ Once the funding ratio is reach, Jennifer should put her entire portfolio
+ into bonds.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+This retirement policy dominates other policies such as Fixed-Mix, Bogle
+ Rule, and others variants which are discussed in the appendix.
+ With the above-mentioned plan, she can achieve her target 96.60% of the
+ time at or before the age of 68.
+ The downside is also very limited, with an expected delay of 2.79 years
+ should she not reach her retirement goal by 68.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Appendix - Financial Planning Tool (FPT)
+\end_layout
+
+\begin_layout Section
+FPT - Integrated Planning System Design
+\end_layout
+
+\begin_layout Subsection
+Scenario Generator
+\end_layout
+
+\begin_layout Standard
+We first generate 1000 random starting dates (we increased the samples from
+ 50 to 1000 to obtain more accurate results), then calculate the geometric
+ mean returns for these 1000 random 1-year samples.
+ With the values we obtain, the covariance matrix 
+\begin_inset Formula $Q$
+\end_inset
+
+ is given by:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+Q=\left[\begin{array}{cccc}
+0.0304 & -0.0007 & 0.0025 & 0\\
+-0.0007 & 0.0009 & 0.0009 & 0\\
+0.0025 & 0.0009 & 0.0146 & 0\\
+0 & 0 & 0 & 0.0001
+\end{array}\right]
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The correlation matrix is:
+\begin_inset Formula 
+\[
+\Sigma=\left[\begin{array}{cccc}
+1 & -0.1245 & 0.1189 & 0\\
+-0.1245 & 1 & 0.2510 & 0\\
+0.1189 & 0.2510 & 1 & 0\\
+0 & 0 & 0 & 1
+\end{array}\right]
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Cholesky Factorisation (using Matlab) to get:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+Q & = & F^{T}F\\
+F & = & \left[\begin{array}{cccc}
+0.1745 & -0.0038 & 0.0144 & 0\\
+0 & 0.0302 & 0.0324 & 0\\
+0 & 0 & 0.1157 & 0\\
+0 & 0 & 0 & 0.01
+\end{array}\right]
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We generate 1000 economic samples by the following:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+\tilde{r}_{t}=\bar{r}+F\cdot\epsilon_{t}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+where 
+\begin_inset Formula $\epsilon_{t}\sim N(0,\mathbf{1})$
+\end_inset
+
+ , 
+\begin_inset Formula $\bar{r}=[0.060\quad0.0250\quad0.050\quad0.005]^{T}$
+\end_inset
+
+ , for SP500, Bonds, FTSE Commodities Index, and Cash respectively.
+ 
+\end_layout
+
+\begin_layout Subsection
+Antithetic-Variate - Variance Reduction
+\end_layout
+
+\begin_layout Standard
+We take advantage of Antithetic-Variate approach to variance reduction to
+ produce more accurate Monte Carlo simulations.
+ The method allows us to double the sample size by:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{eqnarray*}
+\tilde{r}_{t}^{+} & = & \bar{r}+F\cdot\epsilon_{t}\\
+\tilde{r}_{t}^{-} & = & \bar{r}-F\cdot\epsilon_{t}
+\end{eqnarray*}
+
+\end_inset
+
+This does not change the distribution of samples as 
+\begin_inset Formula $\epsilon_{t}$
+\end_inset
+
+ is just as likely to occur as 
+\begin_inset Formula $-\epsilon_{t}$
+\end_inset
+
+.
+ We can hence double the sample size without any extra calculations.
+ The effect on the standard error is:
+\begin_inset Formula 
+\[
+SE_{Antithetic}=\sqrt{\frac{Var(h(\tilde{r}_{t}^{+}))+Var(h(\tilde{r}_{t}^{-}))+2cov\left(h(\tilde{r}_{t}^{+}),h(\tilde{r}_{t}^{-})\right)}{4N}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Software Design
+\end_layout
+
+\begin_layout Standard
+The FPT tool is designed for flexibility and extensibility.
+ We make use of interfacing techniques borrowed from OOP, such as Java and
+ C++, to construct uniform policy rule functions.
+ As we apply multiple layers of policies, the inputs and results of the
+ functions are all formatted in a consistent way.
+ The flow diagram of how the program works is as follows:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FPT_Diag.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+XML Injection
+\end_layout
+
+\begin_layout Standard
+To ensure flexibility and generality, we make use of industry standard XML
+ dependency injection to allow inputs of any person to be entered.
+ The fields required are stated in the example in Section 2.
+ These values are then automatically parsed into our FPT engine and converted
+ MatLab variables.
+ These variables are then used throughout the program in the most general
+ sense so as to keep the code base generic for any user to be evaluated.
+\end_layout
+
+\begin_layout Subsection
+Version Control
+\end_layout
+
+\begin_layout Standard
+We took advantage of Git as our main source control tool.
+ The enabled concurrent development of the software and warranted the stability
+ of the code base.
+ Versioning is important for large scale development and extensions later
+ on.
+\end_layout
+
+\begin_layout Section
+Longevity Issues
+\end_layout
+
+\begin_layout Standard
+For the analysis we assume that Jennifer will live to at least the age of
+ 75, after which we will use mortality tables in our simulations to determine
+ how she should plan for retirement.
+ The mortality tables change based on the gender of the individual.
+ We choose to implement the 2010 valuation mortality table to perform our
+ calculations.
+ The sex field in the XML file allows us to select the correct mortality
+ table.
+ For Jennifer, our simulated life/death scenarios for after the age of 75
+ are as follows:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/age.png
+	lyxscale 60
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In order to compute Jennifer's age distribution, we used Markov transition
+ matrices calculating sample scenarios of Jennifer's age of death.
+ The entries in the transition matrix tells us the probability that Jennifer
+ will live to the next year given that she is already a certain age.
+ We average 30 simulations per scenario to find Jennifer's longevity in
+ each case while guaranteeing that she lives to at least 75 in every scenario.
+ Once we know Jennifer's longevity, we can calculate the amount of wealth
+ Jennifer bequeaths to her sister.
+ One possible distribution of the wealth Jennifer passes on to her sister
+ is given below.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/terminal_w.png
+	lyxscale 60
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Retirement Plan Objectives
+\end_layout
+
+\begin_layout Subsection
+Maximize Probability of Funded Retirement
+\end_layout
+
+\begin_layout Standard
+Our primary goal is to assist Jennifer in saving for her retirement so that
+ she can retire and maintain her lifestyle without worrying about future
+ expenses.
+ Ideally, with our guidance Jennifer will implement a strategy that fits
+ her risk appetite and also steadily grows her retirement wealth throughout
+ her career.
+ On a very high level, we hope to maximize the probability that Jennifer
+ achieves these goals and minimize her worrying along the way to a fully
+ funded retirement at her desired retirement age.
+ 
+\end_layout
+
+\begin_layout Subsection
+Minimize Expected Retirement Delay
+\end_layout
+
+\begin_layout Standard
+Ideally, we hope that Jennifer would be able to save enough to retire at
+ 68 years old in every single scenario.
+ Unfortunately, there are instances where the market performance does not
+ allow this to be the case.
+ Our objective is to minimize the expected retirement delay Jennifer experiences
+, given that she did not meet her target retirement wealth by the age of
+ 68.
+ We can assist Jennifer in this regard through investment policy rules and
+ through savings policy rules, by implementing an optimal policy corresponding
+ to her level of risk aversion.
+ 
+\end_layout
+
+\begin_layout Section
+Investment Policy Rules
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="5">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Policy
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Average Return
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Average Vol
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Average Sharpe Ratio
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Average Max DD
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Fixed-Mix
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.48% 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14.95%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.4334 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+38.75%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Variable Fixed Mix
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.40%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14.14%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.4529
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+33.60%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Bogle Rule
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6.34% 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14.52%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.4364
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+38.67%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Minimise Max Drawdown
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.57%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9.37%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.5944
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+21.63%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Adjustable Risk Rule
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7.87%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+17.25%
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.4560 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+38.04%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Fixed-Mix Rule
+\end_layout
+
+\begin_layout Standard
+A possible simple policy rule is to implement a strategy with a fixed amount
+ of total capital in each of the three possible assets (cash, stock, and
+ bonds) and with a fixed amount in the overlay commodities index.
+ This rule can be good for long term investing, but does not take into account
+ Jennifer's age or how close she is to attaining her goals.
+ In this policy, we run our simulations and perform a maximization across
+ them to find the highest average return applying the same weights to every
+ year in each simulation.
+ This method is particularly challenging because it is blind to the retirement
+ account's growth and evolution through time.
+ Ultimately, the strategy is too simple for Jennifer and will produce too
+ much volatilty for her expected return.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Optimization:
+\end_layout
+
+\begin_layout Standard
+When performing the Fixed-Mix strategy we constrain the volatility.
+ In optimizing the strategy, we maximized the return across a variety of
+ volatility constraints, ranging from 12% to 20%.
+ We find the optimal volatility restriction to be 16%.
+ Additionally, the plot below compares the probabilty of reaching the target
+ wealth across volatilities.
+ 
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FMVol.png
+	lyxscale 60
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Variable Fixed-Mix Rule
+\end_layout
+
+\begin_layout Standard
+This policy is a slightly more complex version of the Fixed-Mix rule discussed
+ above.
+ The rule performs the same Fixed-Mix analysis to calculate the weights
+ allocated to the various assets, but does so over smaller time intervals
+ rather than the entire data set.
+ For example, it optimizes over the next n years of simulations and then
+ provides an optimal allocation for those n years.
+ This strategy adds some variablility over the Fixed-Mix rule, but through
+ our simulations produces generally the same weights for each time subset,
+ with small deviations in the expected return.
+ Our implementation of the rule changes the allocation every 10 years.
+ 
+\end_layout
+
+\begin_layout Subsection
+Bogle Variant Rule
+\end_layout
+
+\begin_layout Standard
+The Bogle variant method would have Jennifer invest 100 minus her age in
+ stocks and the remainder of her savings in bonds and cash (as well as the
+ overlay).
+ This rule is a simplistic way to have Jennifer invest more conservatively
+ as she approaches retirement.
+ This rule is superior to the two prior rules in that it incorporates Jennifer's
+ current age and allows her to be more conservative as she approaches retirement.
+ However, if Jennifer is not projected to reach her goal at a given date,
+ placing more and more money into bonds will decrease her probability of
+ reaching her retirement goal.
+ We feel that this rule is overly simplistic as it does not allow Jennifer
+ the upside potential of investing in stocks if she is falling short of
+ her target retirement wealth.
+\end_layout
+
+\begin_layout Subsection
+Capped Max Drawdown Rule
+\end_layout
+
+\begin_layout Standard
+The drawdown rule calculates the max drawdown over each simulated path and
+ finds the average across these paths.
+ The policy rule then maximizes weights in assets in the Fixed-Mix method
+ while ensuring that the average maximum drawdown does not exceed our investor
+ specified maximum drawdown threshold.
+ Through the life of this investment policy, the investor enjoys the peace
+ of mind to know that her retirement accound does not suffer large losses,
+ though with these conservative investment weights the investor may not
+ reach her goals.
+ We recommend this policy for investors planning to save a large percentage
+ of total salary each year, in addition to those who are particularly risk
+ averse.
+ 
+\end_layout
+
+\begin_layout Subsection
+Adjustable Risk Rule
+\end_layout
+
+\begin_layout Standard
+The adjustable risk rule increases weight in the highest volatility strategy,
+ which in Jennifer's case is the stock allocation, when stocks perform below
+ a specified threshold in the prior year.
+ This strategy increases risk when the retirement account performs poorly
+ hoping to capture higher returns and help the terminal wealth projection
+ recover from losses.
+ Additionally when the accounts see large gains, the asset allocation changes
+ so that there is less weight in the risky stock index, thereby increasing
+ Jennifer's probability of maintaining large gains for her retirement.
+ We find that for investors with at least a moderate risk appetite, this
+ policy rule can be quite successful, producing the highest probability
+ of being funded for retirement of any rule presented here.
+ 
+\end_layout
+
+\begin_layout Paragraph
+Optimization: 
+\end_layout
+
+\begin_layout Standard
+We optimize the size of the drawdown and the size of the allocation increase
+ to maximize Jennifer's probability of reaching her target.
+ We vary the allocation increase from 1% to 15% and the drawdown from 5%
+ to 30% testing each combination and find that using the 10% drawdown as
+ the threshold and increasing the allocation by 10% produces the maximum
+ return.
+ 
+\end_layout
+
+\begin_layout Section
+Saving Policy Rules
+\end_layout
+
+\begin_layout Subsection
+Account Allocation Rule
+\end_layout
+
+\begin_layout Standard
+Each year, Jennifer must decide her allocation between her DC plan and her
+ non-retirement savings account.
+ This decision is largely tax based as Jennifer weighs the implications
+ of paying a tax immediately versus paying taxes when she removes her money
+ for retirement.
+ With Jennifer's tax structure, she pays 30 % on the retirement account
+ when she removes the money at retirement.
+ For her non-retirement account, she pays a 30% tax immediately and then
+ 10% each year on returns (with a tax advantage on losses).
+ As Jennifer's wealth grows in this scenario, she will repeatedly pay a
+ capital gains tax on her non retirement account and will save all of her
+ returns in the retirement account.
+ Since the tax rate of both accounts is equal, Jennifer should place the
+ maximum amount possible in her retirement account to minimize her tax exposure.
+\end_layout
+
+\begin_layout Subsection
+Standard Savings Rule
+\end_layout
+
+\begin_layout Standard
+In the standard savings rule, Jennifer wants to avoid all volatility in
+ the total wealth of her accounts once she reaches her retirement age.
+ At age 68, Jennifer keeps her wealth entirely in cash to avoid the volatility
+ of the stock index and government bonds.
+ Once age 68 passes, Jennifer's accounts no longer gain positive returns
+ and decrease by the amount she spends each year.
+ This rule is suboptimal as it does not take into account Jennifer's funding
+ ratio throughout time or increasing her account balance after retirement.
+\end_layout
+
+\begin_layout Subsection
+Prudent Funding Ratio Rule
+\end_layout
+
+\begin_layout Standard
+This method takes into account Jennifer's funding ratio and uses it as a
+ metric to assess her asset allocation.
+ As soon as Jennifer's funding ratio exceeds one (beginning with a 1.01 ratio),
+ we assume that she will want to invest more conservatively to be more certain
+ that she will reach her goals.
+ We optimize the optimal funding ratio before immunizing the portfolio and
+ find that though 1.00 produces the highest probability of Jennifer achieving
+ her goals, the worst case scenarios with the 1.01 funding rule are superior
+ to those with a funding ratio of 1.
+ Taking Jennifer's worst case scenario into account we chose to use a funding
+ ratio of 1.01.
+ Once Jennifer's funding ratio reaches 1.01, her asset allocation is redistribute
+d to be entirely in government bonds, which earn lower returns but with
+ a lower variance.
+ Since we assume Jennifer will work until she is at least 68 years old,
+ immunizing her retirement wealth can be extremely advantageous and protects
+ her against large losses that could force her to work beyond her desired
+ retirement age.
+ This strategy significantly improves Jennifer's probability of retiring
+ at 68 years of age.
+ Figures 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:StandardandAdj"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:PrudentandAdjust"
+
+\end_inset
+
+ below juxtapose the standard savings rule with the prudent funding ratio
+ policy.
+ The retirement diamond of the prudent policy has been shifted left meaning
+ the 80 percent confidence interval of Jennifer's age of reaching her funding
+ goal occurs earlier in her career.
+ Additionally, we see the target wealth before 68 is a function of time
+ for the prudent policy, since the immunization places the total wealth
+ into government bonds rather than cash.
+ Therefore, Jennifer can realize her target wealth by meeting a target wealth
+ threshold where immunizing into government bonds will allow her to reach
+ her target with more certainty.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/s5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Standard + Adjustable Risk Policies
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:StandardandAdj"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/p5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Prudent + Adjustable Risk Policies
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:PrudentandAdjust"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsection
+The Contingent Spending Rule
+\end_layout
+
+\begin_layout Standard
+This particular allows Jennifer to readjust her spending appetite after
+ recessions.
+ We simulate across scenarios and find the worst 10% of stock market performance
+s.
+ In these cases Jennifer decides that her target wealth goal may be unrealistic
+ and that she may need to adopt a slightly lower target in order to adjust
+ for the market downturn.
+ For these market crash scenarios, Jennifer readjusts her expectations by
+ deducting 15% from her overall spending target for retirement.
+ Through this method, Jennifer maintains realistic expectations, similar
+ to the 
+\begin_inset Quotes eld
+\end_inset
+
+worst case rule
+\begin_inset Quotes erd
+\end_inset
+
+ implemented by Princeton University.
+ On average, implementing this rule increases Jennifer's probability of
+ reaching her target by roughly 2%.
+\end_layout
+
+\begin_layout Subsection
+Retirement Spending Decision
+\end_layout
+
+\begin_layout Standard
+Spending from the taxable savings account prior to spending from the DC
+ pension plan allows Jennifer to gain some marginal benefits due to the
+ tax structure.
+ Our simulations showed a minor increase in expected wealth and probability
+ of not depleting her funds before she passes.
+ However, this benefit is not significant, it is even less pronounced in
+ the case of the standard savings rule where Jennifer puts all her money
+ into cash.
+ 
+\end_layout
+
+\begin_layout Section
+Comparison of Policies
+\end_layout
+
+\begin_layout Standard
+The five different investment policies produce different returns and variances
+ and present Jennifer with different benefits and drawbacks for her retirement
+ investment.
+ For each investment policy, we always implement the contingent spending
+ savings rule, but have the chioce between the standard savings rule and
+ the prudent funding ratio rule.
+ With five investment policy choices and two savings policy choices we have
+ a total of ten potential choices for Jennifer's optimal policy.
+ We assume that the base policy is the Fixed-Mix saving rule.
+ The Fixed-Mix policy rule selects a fixed allocation that maximized returns
+ based on analyzing simulated scenarios.
+ For example, suppose Jennifer selects the Fixed-Mix, prudent policy for
+ her savings accounts.
+ The distribution of Jennifer's wealth and savings as she approaches and
+ hits retirement are given by Figures 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:DC-Wealth-Ages-1"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Savings-Wealth-Ages-1"
+
+\end_inset
+
+ below.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FM/p1.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DC Wealth Ages 60,65,68,70,75
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:DC-Wealth-Ages-1"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FM/p2.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Savings Wealth Ages 60,65,68,70,75
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Savings-Wealth-Ages-1"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As per our first objective, the primary goal is to maximize the probability
+ that Jennifer has reached her target retirement wealth by her projected
+ retirement age of 68.
+ Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Wealth-Distribution-at"
+
+\end_inset
+
+ shows the distribution of Jennifer's wealth once she reaches 68 years of
+ age compared to her target wealth.
+ Rather than looking at Jennifer's distribution, we can instead look at
+ the distribution of Jennifer's age (shown in figure
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Age-Distribution-at"
+
+\end_inset
+
+ )where she has achieved a funding ratio of one.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FM/p3.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Wealth Distribution at 68
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Wealth-Distribution-at"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FM/p4.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Age Distribution at Funding Ratio of 1
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Age-Distribution-at"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A retirement diamond describes an 80% confidence interval of both the expected
+ age of retirement and the expected wealth at Jennifer's projected retirement
+ age of 68.
+ The boundaries of these two confidence intervals create the diamond shape
+ and enclose a space where we expect Jennifer's retirement path to lie near
+ retirement in a majority of the simulations.
+ Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Retirement-Diamond-for"
+
+\end_inset
+
+ displays this retirement diamond for Jennifer's Fixed-Mix strategy.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FM/p5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Retirement Diamond for Fixed-Mix Policy
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Retirement-Diamond-for"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Finally, figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:StatisticComparison"
+
+\end_inset
+
+ shows a plot of every simulated path through time to see how wealth develops
+ under the specified policy.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FM/p6.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fixed-Mix Scenarios
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:FixedMixScenarios"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This sample calculation shows the major descriptive figures associated with
+ each policy.
+ We have computed these in addition to explanatory metrics for all ten potential
+ policies (which have already been optimized with a given volatiltiy constraint)
+ and compare the metrics of the policies in figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:StatisticComparison"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/Policy_Compare.png
+	lyxscale 50
+	scale 67
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Statistic Comparison
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:StatisticComparison"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+From figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:StatisticComparison"
+
+\end_inset
+
+ we see immediately that there is a significant difference between the standard
+ savings policy and the prudent savings rule.
+ The prudent rule outperforms the standard rule across investment policies
+ in terms of drawdowns, the probability of achieving the wealth target by
+ age 68, and expected age when reaching the target wealth value.
+ In terms of investment policies, the Fixed-Mix policy outlined above produces
+ inferior results in every measured statistic but serves as a base policy
+ upon which other policies build.
+ The policy is inflexible and does not take into account Jennifer's age
+ or drawdowns of the stock index in the optimal allocation.
+ The variable Fixed-Mix policy is a natural extension of the Fixed-Mix policy.
+ This policy is slightly more variable in that it allows allocations to
+ change at a prespecified interval, but it still does not account for the
+ drawdowns or Jennifer's age similar to the Fixed-Mix rule.
+ The variable policy outperforms the Fixed-Mix rule as we would expect,
+ but not by much as it adds minimal variability and does not improve on
+ the major constraints.
+ 
+\end_layout
+
+\begin_layout Standard
+We can account for Jennifer's age by instituting the Bogle policy rule.
+ This rule varies the allocation to the stock index relative to Jennifer's
+ age but does not take into account drawdowns in the stock index or offer
+ any flexibility in allocation.
+ The Bogle rule performs very similarly to the Fixed-Mix and variable Fixed-Mix
+ rules but is still inferior to other strategies.
+ The first rule to incorporate the negative performace of the stock index
+ in the maximum drawdown policy rule.
+ The drawdown rule finds the optimal Fixed-Mix for Jennifer but constrains
+ the maximum drawdown of the portfolio to a specified target level.
+ Though ideal for a risk averse investor because of the reduced maximum
+ drawdown, this policy rule is too conservative and does not take enough
+ risk to achieve Jennifer's goals.
+ The final strategy is the adjustable risk rule.
+ By increasing the allocation to the stock index when the index performed
+ very poorly in the prior year, the policy attempts to recover the losses
+ suffered in the prior period.
+ The policy rule is the most flexible and takes into account drawdowns,
+ though it is oblivious to Jennifer's age.
+ The combination of flexibility and responding to large drawdowns provided
+ the best performance by far.
+ The adjustable risk rule is described in detail above as we suggest the
+ policy as the optimal choice for Jennifer to realize her retirement goals.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Policy Diamonds Comparison:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FM/s5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fixed-Mix Standard
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/FM/p5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fixed-Mix Prudent
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/Bogle/s5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Bogle Standard
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/Bogle/p5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Bogle Prudent
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/s5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Adjustable-Risk Standard (20% savings)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump/p5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Adjustable-Risk Prudent (20% savings
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump24/s5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Adjustable-Risk Standard (24% savings)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "45text%"
+special "none"
+height "1pt"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename img/VolPump24/p5.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Adjustable-Risk Prudent (24% savings
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Extensions
+\end_layout
+
+\begin_layout Standard
+Some further extensions to the project include:
+\end_layout
+
+\begin_layout Itemize
+Explore alternative policy rules on investment strategy such as Momentum,
+ Risk Parity, and others.
+\end_layout
+
+\begin_layout Itemize
+Allow for borrowing when optimising the retirement plan.
+\end_layout
+
+\begin_layout Itemize
+Include more assets to choose from, allowing for small allocations to extremely
+ risk assets such as financial derivatives.
+ This could work well with the prudent policy rule for early funding ratio
+ target hits.
+\end_layout
+
+\begin_layout Itemize
+Examine possibilities of investing in cash flow matching method.
+\end_layout
+
+\begin_layout Itemize
+Examine portfolio optimisation on any surplus wealth if funding ratio is
+ large.
+ This could improve the distribution of assets left to family members.
+\end_layout
+
+\begin_layout Itemize
+Employ other variance reduction methods on simulations such as control variate.
+\end_layout
+
+\begin_layout Standard
+ 
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Attached Code - Ed Stivers, Lu Xin
+\end_layout
+
+\begin_layout Subsection
+Saving Policies
+\end_layout
+
+\begin_layout Standard
+Standard Pension Plan Simulator:
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/PensionPlanSimulator.m"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/StandardPolicy.m"
+
+\end_inset
+
+Prudent Pension Plan Simulator:
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/PrudentPensionPlanSimulator.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/ImmunisePolicy.m"
+
+\end_inset
+
+Additional:
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/BigHitsVector.m"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/FixedMix.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Investment Policies
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/FixedMix.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/OptimalFixedMixWts.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/VarFixMix.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/VarFixMixOutput.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/OptimalVarFixedMixWts.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/OptimalDDWts.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/maxDD.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/DDConFun.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/DrawDown.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/Bogle.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/VolPump.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/OptimalDDWts.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+General Files
+\end_layout
+
+\begin_layout Standard
+Execution:
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/RunVolPump.m"
+
+\end_inset
+
+Longevity:
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/MortalityEngine.m"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/LongevityFinder.m"
+
+\end_inset
+
+Additional files:
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/ScenarioGen.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/SetupVariables.m"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/TargetWealth.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/BigHitsVector.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/EffFrontierFM.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/PlotPortHist.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/RunVolPump.m"
+
+\end_inset
+
+XML Parser:
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/xml2struct.m"
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/getConfiguration.m"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand lstinputlisting
+filename "code/GetValues.m"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
